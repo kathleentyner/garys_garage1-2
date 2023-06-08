@@ -1,0 +1,15 @@
+C:\Users\kathl\workspace\csharp\vehicleexercise\bin\Debug\net7.0\vehicleexercise.exe
+C:\Users\kathl\workspace\csharp\vehicleexercise\bin\Debug\net7.0\vehicleexercise.deps.json
+C:\Users\kathl\workspace\csharp\vehicleexercise\bin\Debug\net7.0\vehicleexercise.runtimeconfig.json
+C:\Users\kathl\workspace\csharp\vehicleexercise\bin\Debug\net7.0\vehicleexercise.dll
+C:\Users\kathl\workspace\csharp\vehicleexercise\bin\Debug\net7.0\vehicleexercise.pdb
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.csproj.AssemblyReference.cache
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.AssemblyInfoInputs.cache
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.AssemblyInfo.cs
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.csproj.CoreCompileInputs.cache
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.dll
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\refint\vehicleexercise.dll
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.pdb
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\vehicleexercise.genruntimeconfig.cache
+C:\Users\kathl\workspace\csharp\vehicleexercise\obj\Debug\net7.0\ref\vehicleexercise.dll
